@@ -5,12 +5,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-# 💫 About Me:
-Hi there 👋<br>I'm @axmanur<br>
-I'm a Full Stack Developer and mobile-app Developer with 3+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within modern technologies.
 
+<!--<p align="center">
+<img align="center" alt="Coding" width="80%" height="80%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+</p>-->
+
+<h1 align="center">Hello There 👋, I'm axmanur</h1>
+<h3 align="center">I'm a Full Stack Developer and mobile-app Developer with 3+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within modern technologies.</h3>
+
+<p align="center">
+<img align="center" width="40%" alt="Coding"  src="https://www.e2msolutions.com/wp-content/uploads/2021/10/page-banner-img.png">
+</p>
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/axmanur) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@axmanur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@axmenur) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@axmanur) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/axmanur) 
