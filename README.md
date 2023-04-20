@@ -39,18 +39,31 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=axmanur&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ahmedibradotcom" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmanur&theme=radical&hide_border=true" alt="ahmedibradotcom" />
+</p>
+
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmohassan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmedibradotcom" />
+</p>
 
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@axmenur)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!--
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)-->
+<p align="center"> 
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="ahmedibradotcom" />
+</p>
 
----
 [![](https://visitcount.itsvg.in/api?id=axmanur&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
