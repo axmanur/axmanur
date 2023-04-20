@@ -52,7 +52,7 @@
 </p>
 
 <p align="center"> 
-<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmohassan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmedibradotcom" />
+<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 
