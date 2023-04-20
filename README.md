@@ -14,7 +14,7 @@
 <h3 align="center">I'm a Full Stack Developer and mobile-app Developer with 3+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within modern technologies.</h3>
 
 <p align="center">
-<img align="center" width="40%" alt="Coding"  src="https://www.e2msolutions.com/wp-content/uploads/2021/10/page-banner-img.png">
+<img align="center" width="80%" alt="Coding"  src="https://www.e2msolutions.com/wp-content/uploads/2021/10/page-banner-img.png">
 </p>
 
 ## 🌐 Socials:
@@ -61,7 +61,7 @@
 <!--
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)-->
 <p align="center"> 
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="ahmedibradotcom" />
+  <img width="90%" align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="ahmedibradotcom" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=axmanur&icon=0&color=1)](https://visitcount.itsvg.in)
