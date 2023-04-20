@@ -45,7 +45,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ahmedibradotcom" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ahmedibradotcom" /><br/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmanur&theme=radical&hide_border=true" alt="ahmedibradotcom" />
 </p>
 
