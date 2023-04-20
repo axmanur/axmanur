@@ -45,12 +45,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ahmedibradotcom" /><br/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmanur&theme=radical&hide_border=true" alt="ahmedibradotcom" />
+<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=axmanur&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="ahmedibradotcom" /><br/>
+ <img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmanur&theme=radical&hide_border=true" alt="ahmedibradotcom" />
 </p>
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmohassan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmedibradotcom" />
+<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmohassan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmedibradotcom" />
 </p>
 
 
