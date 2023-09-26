@@ -57,7 +57,7 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@axmenur)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=@axmenur)](https://github.com/@axmenur/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 <!--
